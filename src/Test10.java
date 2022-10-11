@@ -3,7 +3,7 @@ public class Test10 {
     public static void main(String[] args) {
 
         Week week = Week.Saturday;
-        String msg = "今天";
+        String msg = "今天是";
         switch (week) {
             case Monday:
                 msg += "星期一，心情郁闷";
